@@ -1,0 +1,14 @@
+body{
+    max-width: 1140px;
+    margin: 0 auto;
+}
+.image-box{
+    border: 2px solid rebeccapurple;
+    border-radius: 8px;
+    margin-top: 20px;
+    padding: 20px;
+}
+.image-box img{
+    width: 100%;
+    border-radius: 8px;
+}
